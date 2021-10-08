@@ -1,7 +1,7 @@
 exports.help = (prefix,pushname) => {
 	return ` Hola *${pushname}*
 
-≡ INFO BOT
+≡ INFO BOT LIGHT
 ┌──────────────
 ❐ *${prefix}reglas*
 ❐ *${prefix}creador*
